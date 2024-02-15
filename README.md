@@ -2,4 +2,4 @@
 Codes for Intelligent Systems
 
 
-My finals submission is in **Exercise Submissions** folders
+My finals submission is in **Exercise Submissions** folder
